@@ -52,7 +52,7 @@
 
 - First Fork This Repo
 
-- Change Name Of Repo
+- Change Name Of Repo JV 
 
 - Click Below Deploy To Heroku
 
@@ -63,7 +63,7 @@
 
 - Clone the repo. 
 
-`git clone https://github.com/The-LegendBot/LEGENDUSERBOT.git`
+`git clone https://github.com/yamrajop667/LEGENDUSERBOT.git`
 - Open Cloned Folder.
 
 `cd LEGENDUSERBOT`
